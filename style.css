@@ -1,3 +1,31 @@
 body{
-    font-family: "Montserrat", sans-serif;
+    font-family: "Roboto", sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+span{
+    color: deeppink;
+    font-weight: 700;
+}
+p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 100%;
 }
